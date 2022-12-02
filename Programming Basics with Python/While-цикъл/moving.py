@@ -22,5 +22,3 @@ if sum_boxes >= volume:
     print(f"No more free space! You need {diff} Cubic meters more.")
 else:
     print(f"{diff} Cubic meters left.")
-
-    
